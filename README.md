@@ -45,4 +45,4 @@ I write up CTF machines, build security-focused tools, and document my coursewor
 - [Secure software development (C)](https://github.com/kmrlbhr/secure-software-dev-c-calculator)
 
 ## 📚 Notes
-- [Cybersecurity notes & cheat sheets](https://github.com/kmrlbhr/Cybersecurity_Notes2)
+- [Cybersecurity notes & cheat sheets](https://github.com/kmrlbhr/cybersecurity-notes)
