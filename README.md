@@ -25,7 +25,7 @@ I write up CTF machines, build security-focused tools, and document my coursewor
 
 | Platform | Writeups |
 |---|---|
-| **HackTheBox** | [Intro to Red Team](https://github.com/kmrlbhr/htb-intro-to-red-team) · [Meow](https://github.com/kmrlbhr/htb-meow) |
+| **HackTheBox** | [Intro to Red Team](https://github.com/kmrlbhr/htb-intro-to-red-team) · [Meow](https://github.com/kmrlbhr/htb-meow) · Starting Point: [Tier 0](https://github.com/kmrlbhr/htb-starting-point-tier0) · [Tier 1](https://github.com/kmrlbhr/htb-starting-point-tier1) · [Tier 2](https://github.com/kmrlbhr/htb-starting-point-tier2) |
 | **TryHackMe** | [Blueprint](https://github.com/kmrlbhr/thm-blueprint) · [Hydra](https://github.com/kmrlbhr/thm-hydra) |
 | **PwnTillDawn** | [Writeups hub](https://github.com/kmrlbhr/PwnTillDawn-Public) · [PwnDrive](https://github.com/kmrlbhr/pwntilldawn-pwndrive) |
 | **VulnHub** | [Bob 1.0.1](https://github.com/kmrlbhr/vulnhub-bob-1.0.1) · [BlueMoon 2021](https://github.com/kmrlbhr/vulnhub-bluemoon-2021) |
